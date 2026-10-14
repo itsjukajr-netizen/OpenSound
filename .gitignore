@@ -1,0 +1,9 @@
+# Distribution-only repository. Keep local application source and user data private.
+*
+!.gitignore
+!README.md
+!CREDITS.md
+!LICENSE
+!docs/
+docs/*
+!docs/dependencies.md
